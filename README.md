@@ -1,5 +1,5 @@
 # jugyo_highwaybus
-授業でやったハイウェイバス予約システム風  
+授業でやったハイウェイバス予約システム風  by 牧野先生
 
 ## データベース用sqlファイル  
 highwaybus.sql    
